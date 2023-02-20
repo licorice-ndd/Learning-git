@@ -1,0 +1,16 @@
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\bin\Debug\ASS1 VER2.exe.config
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\bin\Debug\ASS1 VER2.exe
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\bin\Debug\ASS1 VER2.pdb
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.csproj.AssemblyReference.cache
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.exe
+D:\Visual Studio\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.pdb
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\bin\Debug\ASS1 VER2.exe.config
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\bin\Debug\ASS1 VER2.exe
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\bin\Debug\ASS1 VER2.pdb
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.csproj.AssemblyReference.cache
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.csproj.CoreCompileInputs.cache
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.exe
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.pdb
+D:\Semester 10 PRN & PRY\ASS1 DuyNDSE05813\ASS1 VER2\ASS1 VER2\obj\Debug\ASS1 VER2.csproj.SuggestedBindingRedirects.cache

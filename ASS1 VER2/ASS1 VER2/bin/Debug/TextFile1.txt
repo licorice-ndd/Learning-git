@@ -1,0 +1,2 @@
+﻿1|Trung|9061000|Manager 
+2|Hoang|905|Dev
